@@ -1,1 +1,3 @@
-# projeto-inicial
+#jogo do numero secreto
+
+##🎮
